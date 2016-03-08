@@ -1,5 +1,5 @@
 # QA-test
-1. Write a code to print your name in any language
+1.Write a code to print your name in any language
 <html>
 <head>
 <title>This is my name</title>
@@ -11,7 +11,7 @@
 </body>
 </html>
 
-2. Write a code to sum up the first 1000 numbers. You can use any language.
+2.Write a code to sum up the first 1000 numbers. You can use any language.
 public class Main
 {
     public static void main(String[] args)
@@ -27,10 +27,10 @@ public class Main
     }
 }
 
-3. Write about 100 words why do you want to learn coding and automation test (in English). 
+3.Write about 100 words why do you want to learn coding and automation test (in English). 
 As a manual QA, I have to test many bug tickets that developers make their fixs on some parts of the system. Therefore, I want to learn coding in order to have ability to understand what changes that the developers make in their commits. If I can do that, I will focus on testing these parts or discover any mistake that the developers can make. For automation test, I can reduce my time and efforts while doing similar tasks (for example: regression test, smoke test...) by making them  automatic.
 
-4. Create a website
+4.Create a website
 <!DOCTYPE html>
 <html>
 <body>
