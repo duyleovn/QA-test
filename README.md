@@ -1,6 +1,5 @@
 # QA-test
 1. Write a code to print your name in any language
-<!DOCTYPE html>
 <html>
 <head>
 <title>This is my name</title>
