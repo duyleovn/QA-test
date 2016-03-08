@@ -31,7 +31,7 @@ public class Main
 As a manual QA, I have to test many bug tickets that developers make their fixs on some parts of the system. Therefore, I want to learn coding in order to have ability to understand what changes that the developers make in their commits. If I can do that, I will focus on testing these parts or discover any mistake that the developers can make. For automation test, I can reduce my time and efforts while doing similar tasks (for example: regression test, smoke test...) by making them  automatic.
 
 4.Create a website
-<!DOCTYPE html>
+
 <html>
 <body>
 
